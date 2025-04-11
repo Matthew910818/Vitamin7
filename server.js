@@ -12,7 +12,7 @@ const connection = mysql.createConnection({
     port: 3306,
     user: 'root', 
     password: 'Matthew0818$', 
-    database: 'company_db' // replace with your MySQL database name
+    database: 'company_db' 
 });
 
 // MySQL Connection Verification
